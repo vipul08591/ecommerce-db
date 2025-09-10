@@ -1,4 +1,0 @@
-user_id,full_name,email,password_hash,phone,address,created_at
-1,Vipul Singh,vipul@example.com,hash123,9876543210,"123 Main Street, Delhi",2025-09-10 09:00:00
-2,Anita Sharma,anita@example.com,hash456,9123456780,"45 MG Road, Mumbai",2025-09-10 09:10:00
-3,Rohit Kumar,rohit@example.com,hash789,9988776655,"22 Park Lane, Bangalore",2025-09-10 09:20:00

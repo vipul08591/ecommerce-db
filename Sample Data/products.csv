@@ -1,5 +1,0 @@
-product_id,name,description,price,stock,category,created_at
-1,Laptop,High-performance laptop,75000.0,10,Electronics,2025-09-10 09:50:00
-2,Smartphone,Latest Android smartphone,25000.0,50,Electronics,2025-09-10 10:00:00
-3,Headphones,Noise-cancelling headphones,5000.0,30,Accessories,2025-09-10 10:10:00
-4,Office Chair,Ergonomic office chair,8000.0,15,Furniture,2025-09-10 10:20:00
