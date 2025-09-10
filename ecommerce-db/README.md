@@ -1,5 +1,5 @@
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 # Ecommerce Database
 
@@ -16,6 +16,7 @@ This repository contains a sample **Ecommerce Database** for testing purpose.
 2. Go to File
 3.Go to Open SQL Script
 4.Select the .sql file and Open
+
 
 
 
